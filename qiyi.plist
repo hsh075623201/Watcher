@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>bundle ID</string>
+				<string>com.aihuishou.Watcher</string>
 				<key>bundle-version</key>
 				<string>5.6</string>
 				<key>kind</key>
