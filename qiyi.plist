@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>bundle ID</string>
+				<string>com.aihuishou.Watcher</string>
 				<key>bundle-version</key>
-				<string>5.6</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>Watcher</string>
 				<key>title</key>
-				<string>爱回收信息管理平台</string>
+				<string>Watcher</string>
 			</dict>
 		</dict>
 	</array>
